@@ -1,9 +1,3 @@
-That’s awesome! Writing a description for your own game is a great way to show it off on GitHub, add it to your portfolio, or just share it with friends.
-
-Here is a clean, engaging description template you can use. I’ve broken it down into sections so it looks professional and is easy to read.
-
----
-
 🔨 Whack-A-Mole! (Web Edition)
 
 An interactive, fast-paced arcade game built completely from scratch using the classic web trifecta: **HTML5, CSS3, and Vanilla JavaScript**. Test your reflexes and see how many moles you can whack before the timer runs out!
