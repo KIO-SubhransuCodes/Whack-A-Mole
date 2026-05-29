@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Whack-A-Mole Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-wrapper" id="gameWrapper">
+    <h1>Whack-A-Mole</h1>
+
+    <div class="info">
+        <div>Score: <span id="score">0</span></div>
+        <div>Time: <span id="time">15</span></div>
+    </div>
+
+    <div class="grid">
+        <div class="hole"></div><div class="hole"></div><div class="hole"></div>
+        <div class="hole"></div><div class="hole"></div><div class="hole"></div>
+        <div class="hole"></div><div class="hole"></div><div class="hole"></div>
+    </div>
+
+    <button id="start">Start Game</button>
+</div>
+
+<div class="final-screen hidden" id="finalScreen">
+    <div class="final-text" id="finalText"></div>
+</div>
+
+<script src="script.js"></script>
+
+<footer class="game-footer">
+    <p>🎯 Whack-A-Mole | Made by <span class="author">K. Subhransu Satyajeet</span></p>
+</footer>
+
+</body>
+</html>
